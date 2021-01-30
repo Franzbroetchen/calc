@@ -101,7 +101,7 @@ export default {
 .display {
   grid-column: 1 / 5;
   background-color:#333;
-  color:white;
+  color:gray;
 }
 .zero {
   grid-column: 1 / 3;
